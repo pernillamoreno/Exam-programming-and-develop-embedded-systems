@@ -1,5 +1,4 @@
 # VG_exam_programming_embedded_systems
-Implement a thread safe and synchronized producer-consumer program.
 
 Implement a thread safe and synchronized producer-consumer program.
 
